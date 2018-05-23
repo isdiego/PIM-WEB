@@ -1,0 +1,78 @@
+*{
+	marign:0px;
+	padding:0px;	
+}
+body{
+	background-image: url('../img/img12.jpg');
+	font-family: Century gothic;
+	background-image: no-repeat;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+.formlogin{
+	color: white;
+	background-color: rgba(0,0,0,0.6);
+	width: 303px;
+	height:220px;
+	transform: translate( -50%, -50%);
+	top: 25%;
+	left: 50%; 	
+	position: absolute;
+	border-radius: 10px;
+}
+.formcad{
+	color: white;
+	background-color: rgba(0,0,0,0.6);
+	width: 303px;
+	height:305px;
+	transform: translate( -50%, -50%);
+	top: 70%;
+	left: 50%; 	
+	position: absolute;
+	border-radius: 10px;
+}
+p{
+	color: white;
+	font-family: Century gothic;
+}
+label{
+	margin-left: 5px;
+}
+input{ 
+	width: 290px;
+	margin-left: 5px;
+	border-radius: 5px;
+}
+.inpentra{
+	width: 130px;
+	margin-left: 30%;
+	background: white;
+	color: black;
+}
+.inpentra:hover{
+	background: linear-gradient(to bottom, #ffccff 0%, #33ccff 100%);
+	color: black;
+}
+.inpcad{
+	width: 130px;
+	margin-left: 30%;
+	background: white;
+	color: black;
+}
+.inpcad:hover{
+	background: linear-gradient(to bottom, #ffccff 0%, #33ccff 100%);
+	color: black;
+}
+.logop{
+	position: absolute;
+    top: 15%; 
+    left: 55%;
+    transform: translate(90%, -50%); 
+}
+.logo{
+	height:auto;
+	width: 250px;
+}

@@ -1,0 +1,13 @@
+*{
+	marign:0px;
+	padding:0px;	
+}
+body{
+	background-image: url('../img/img12.jpg');
+	font-family: Century gothic;
+	background-image: no-repeat;
+	background-size: cover;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}

@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	padding: opx;
+}
+body{
+	background-image: url('../img/img12.jpg');
+	background-image: no-repeat;
+	background-size: cover;
+	font-family: Century gothic;
+}
+.logop{
+	position: absolute;
+    top: 18%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+.logo{
+	height:auto;
+	width: 300px;
+}
+.ientra{
+	position: absolute;
+    top: 50%; 
+    left: 40%;
+    transform: translate(-50%, -50%); 
+}
+
+.iconsulta{
+	position: absolute;
+    top: 50%; 
+    left: 60%;
+    transform: translate(-50%, -50%); 
+}
+p{
+	color: white;
+	margin-left: 10px;	
+}
+a{
+	color: yellow;
+}
+a:hover{
+	color: white;
+}
